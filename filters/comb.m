@@ -1,5 +1,5 @@
-clear;clc;close
-fs=5000;
+clear;clc;close all
+fs=500;
 fundamental=50;
 M=(fs/fundamental)
 k=1:M;
